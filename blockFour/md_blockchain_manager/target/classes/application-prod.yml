@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://${MYSQL_URL}/blockchainfour?autoReconnect=true&useUnicode=true&useSSL=true
+    username: root
+    password: ${MYSQL_PASS}
+server:
+  port: 8080

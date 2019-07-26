@@ -1,0 +1,1201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08a48fdb-eef0-4893-8f0b-06a0996a666f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../MyResources" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/out/production/WORK/JZoffer/T22_KthNodeFromEnd$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/out/production/WORK/JZoffer/T22_KthNodeFromEnd$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/out/production/WORK/JZoffer/T22_KthNodeFromEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/out/production/WORK/JZoffer/T22_KthNodeFromEnd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/out/production/WORK/JZoffer/T55_BalanceBinaryTree_2$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/out/production/WORK/JZoffer/T55_BalanceBinaryTree_2$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/out/production/WORK/JZoffer/T55_BalanceBinaryTree_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/out/production/WORK/JZoffer/T55_BalanceBinaryTree_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/out/production/WORK/NiuKe/T2_6_QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T00_BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T00_BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T00_BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T00_BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T00_MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T00_MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T00_QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T00_QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T00_QuickSortNonRecurse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T00_QuickSortNonRecurse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T02_Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T02_Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T03_array_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T03_array_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T03_array_1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T03_array_1_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T03_array_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T03_array_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T03_array_2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T03_array_2_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T04_FindInPartiallyMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T04_FindInPartiallyMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T05_replaceBlank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T05_replaceBlank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T05_replaceBlank_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T05_replaceBlank_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T06_printListReversingly.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T06_printListReversingly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T07_ConstructBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T07_ConstructBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T08_nextTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T08_nextTreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T09_twoQueueToStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T09_twoQueueToStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T09_twoStackToQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T09_twoStackToQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T10_RectCover.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T10_RectCover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T10_fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T10_fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T10_jumpFloor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T10_jumpFloor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T10_jumpFloor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T10_jumpFloor2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T11_MinNumberInRotatedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T11_MinNumberInRotatedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T11_MinNumberInRotatedArray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T11_MinNumberInRotatedArray2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T12_PathMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T12_PathMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T13_MoveCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T13_MoveCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T14_CuttingRope_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T14_CuttingRope_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T14_CuttingRope_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T14_CuttingRope_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T15_BinaryNumberCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T15_BinaryNumberCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T15_BinaryNumberCount_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T15_BinaryNumberCount_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T16_IntegerPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T16_IntegerPower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T17_Print1ToNNN.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T17_Print1ToNNN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T18_DeleteNodeIN1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T18_DeleteNodeIN1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T18_DeleteReapeatNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T18_DeleteReapeatNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T19_RegularExpressMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T19_RegularExpressMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T20_StringISNumeric.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T20_StringISNumeric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T21_ReorderArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T21_ReorderArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T22_KthNodeFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T22_KthNodeFromEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T23_EntryNodeOfLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T23_EntryNodeOfLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T24_ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T24_ReverseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T25_MergeSortedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T25_MergeSortedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T26_SubStructureTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T26_SubStructureTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T27_MirrorOFBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T27_MirrorOFBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T28_SymmetricalBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T28_SymmetricalBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T29_PrintMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T29_PrintMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T30_MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T30_MinStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T31_StackPushPopOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T31_StackPushPopOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T32_PrintTreeFromTopToBottom_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T32_PrintTreeFromTopToBottom_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T32_PrintTreeFromTopToButtom_1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T32_PrintTreeFromTopToButtom_1_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T32_PrintTreeInLines_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T32_PrintTreeInLines_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T32_PrintTreeInZigzag_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T32_PrintTreeInZigzag_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T33_SequenceOfBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T33_SequenceOfBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T34_PathInTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T34_PathInTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T35_CopyComplexList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T35_CopyComplexList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T36_BSTtoLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T36_BSTtoLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T37_SerializeBinaryTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T37_SerializeBinaryTrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T38_StrintPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T38_StrintPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T39_MoreThanHalfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T39_MoreThanHalfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T39_MoreThanHalfNumber_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T39_MoreThanHalfNumber_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T40_KLeastNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T40_KLeastNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T40_KLeastNumber_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T40_KLeastNumber_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T41_StreamMedian.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T41_StreamMedian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T42_GreatestSumOfSubarrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T42_GreatestSumOfSubarrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T43_NumberOf1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T43_NumberOf1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T44_DigitalInSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T44_DigitalInSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T45_SortArrayForMinNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T45_SortArrayForMinNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T46_TranslateNumbersToStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T46_TranslateNumbersToStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T47_MostValueOfGifts.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T47_MostValueOfGifts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T48_longestSubstringWithoutDuplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T48_longestSubstringWithoutDuplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T49_UglyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T49_UglyNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T50_FirstNotRepeatChar_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T50_FirstNotRepeatChar_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T50_FirstNotRepeatChar_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T50_FirstNotRepeatChar_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T51_NumberOfReversePair.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T51_NumberOfReversePair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T52_FirstCommonNodeInTwoLinkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T52_FirstCommonNodeInTwoLinkedlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T53_FindNumberInSortedArray_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T53_FindNumberInSortedArray_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T53_IdentityEqualsIndex_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T53_IdentityEqualsIndex_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T53_MissingNumber_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T53_MissingNumber_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T54_KthNodeInBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T54_KthNodeInBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T55_BalanceBinaryTree_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T55_BalanceBinaryTree_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T55_DepthOfTree_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T55_DepthOfTree_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T56_NumberAppearOnce_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T56_NumberAppearOnce_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T56_NumberAppearOnce_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T56_NumberAppearOnce_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T57_NumberOfSumIsS_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T57_NumberOfSumIsS_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T57_NumberOfSum_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T57_NumberOfSum_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T58_LeftRotateString_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T58_LeftRotateString_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T58_ReverseWordsInSentence_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T58_ReverseWordsInSentence_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T59_MaxQueueWithO1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T59_MaxQueueWithO1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T59_SlidingWindows_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T59_SlidingWindows_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T60_SumOfNDice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T60_SumOfNDice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T61_SequenceOfCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T61_SequenceOfCards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T62_LeftNumber_Josephuse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T62_LeftNumber_Josephuse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T63_MostValueOfTickets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T63_MostValueOfTickets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T64_SumOf1ToN.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T64_SumOf1ToN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T65_SumWithoutSymbol.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T65_SumWithoutSymbol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T66_MultiplesOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T66_MultiplesOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T67_StringToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T67_StringToInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T68_LowestCommonParent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T68_LowestCommonParent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T69_RepeatNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T69_RepeatNumberInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T70_FirstNotRepeatInCharFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T70_FirstNotRepeatInCharFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/T71_mergeKSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/T71_mergeKSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/JZoffer/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/JZoffer/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T1_13_SearchString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T1_13_SearchString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T1_200_LongestHuiwenzi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T1_200_LongestHuiwenzi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T1_415_ValidHuiwen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T1_415_ValidHuiwen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T1_627_LongestHuiwen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T1_627_LongestHuiwen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T2_159_minRotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T2_159_minRotate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T2_458_TargetLastLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T2_458_TargetLastLocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T2_460_KCloestNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T2_460_KCloestNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T2_585_MountainTop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T2_585_MountainTop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T2_75_findPeak.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T2_75_findPeak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T3_228_MiddleNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T3_228_MiddleNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T3_539_MoveZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T3_539_MoveZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T3_607_TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T3_607_TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T4_433_NumOfIslands.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T4_433_NumOfIslands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T4_615_CourseTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T4_615_CourseTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T4_69_BFSTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T4_69_BFSTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T5_480_BinaryTreePaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T5_480_BinaryTreePaths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T5_596_SmallestSubTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T5_596_SmallestSubTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T5_900_CloestValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T5_900_CloestValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T6_136_PalindromePartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T6_136_PalindromePartition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T6_153_NumberCombination2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T6_153_NumberCombination2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T6_680_SplitString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T6_680_SplitString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T7_209_FirstUniqueChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T7_209_FirstUniqueChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T7_547_ArrayInsection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T7_547_ArrayInsection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T7_642_MovingSlidesAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T7_642_MovingSlidesAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T8_114_UniquePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T8_114_UniquePath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/LintCode/T8_115_UniquePath2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/LintCode/T8_115_UniquePath2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T1_2_PrintBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T1_2_PrintBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T1_4_StringRotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T1_4_StringRotate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T2_10_CountingSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T2_10_CountingSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T2_2_BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T2_2_BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T2_3_SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T2_3_SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T2_4_InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T2_4_InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T2_5_MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T2_5_MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T2_6_QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T2_6_QuickSort2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T2_6_QuickSort2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T3_3_WordTransfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T3_3_WordTransfer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T3_6_ReverseSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T3_6_ReverseSentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T3_7_removeSubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T3_7_removeSubString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T3_8_findSmallUnion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T3_8_findSmallUnion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T4_2_minStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T4_2_minStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T4_4_TwoStackToQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T4_4_TwoStackToQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T4_5_reverseStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T4_5_reverseStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T5_3_removeNodeWithoutHead.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T5_3_removeNodeWithoutHead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T5_5_DivideListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T5_5_DivideListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T5_6_CommonList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T5_6_CommonList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T5_7_reverseKListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T5_7_reverseKListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T5_8_ClearListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T5_8_ClearListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T5_9_PalindromeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T5_9_PalindromeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T6_2_LocalSmall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T6_2_LocalSmall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T6_3_findLeftest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T6_3_findLeftest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T6_4_GetMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T6_4_GetMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T7_2_DiguiTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T7_2_DiguiTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T7_3_NonDiguiTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T7_3_NonDiguiTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T7_6_SerialzeBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T7_6_SerialzeBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T7_8_CheckBalanceTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T7_8_CheckBalanceTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T7_9_CheckCompletionBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T7_9_CheckCompletionBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T8_3_BitExchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T8_3_BitExchange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T8_5_BitJishu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T8_5_BitJishu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T8_6_BitJishus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T8_6_BitJishus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T9_2_MoveMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T9_2_MoveMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T9_3_StandInLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T9_3_StandInLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T9_4_StandAlone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T9_4_StandAlone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/NiuKe/T9_5_DistributionCandy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/NiuKe/T9_5_DistributionCandy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/algorithms4/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/algorithms4/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/algorithms4/Evaluate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/algorithms4/Evaluate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/algorithms4/arrayToStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/algorithms4/arrayToStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/algorithms4/linkedlistBag.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/algorithms4/linkedlistBag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/algorithms4/linkedlistQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/algorithms4/linkedlistQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/algorithms4/linkedlistStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/algorithms4/linkedlistStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/algorithms4/liu1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/algorithms4/liu1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/algorithms4/liu2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/algorithms4/liu2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/algorithms4/liu3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/algorithms4/liu3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/algorithms4/queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/algorithms4/queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/algorithms4/sortInsertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/algorithms4/sortInsertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/algorithms4/sortInsertion2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/algorithms4/sortInsertion2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/algorithms4/sortSelection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/algorithms4/sortSelection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/algorithms4/sortShell.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/algorithms4/sortShell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/algorithms4/string.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/algorithms4/string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WORK/src/algorithms4/webank_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORK/src/algorithms4/webank_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/AVLTreeST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/AVLTreeST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Accumulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Accumulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/AcyclicLP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/AcyclicLP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/AcyclicSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/AcyclicSP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/AdjMatrixEdgeWeightedDigraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/AdjMatrixEdgeWeightedDigraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Alphabet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Alphabet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/AmericanFlag.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/AmericanFlag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/AmericanFlagX.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/AmericanFlagX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Arbitrage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Arbitrage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/AssignmentProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/AssignmentProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Average.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Bag.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Bag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BellmanFordSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BellmanFordSP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BinaryDump.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BinaryDump.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BinaryIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BinaryIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BinaryInsertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BinaryInsertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BinaryOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BinaryOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BinarySearchST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BinarySearchST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BinaryStdIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BinaryStdIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BinaryStdOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BinaryStdOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BinomialMinPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BinomialMinPQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Bipartite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Bipartite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BipartiteMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BipartiteMatching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BipartiteX.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BipartiteX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BlackFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BlackFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BoruvkaMST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BoruvkaMST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BoyerMoore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BoyerMoore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BreadthFirstDirectedPaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BreadthFirstDirectedPaths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BreadthFirstPaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/BreadthFirstPaths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/CC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/CC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/CPM.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/CPM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/ClosestPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/ClosestPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/CollisionSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/CollisionSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Complex.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Complex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Count.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Cycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Date.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DeDup.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DeDup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DegreesOfSeparation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DegreesOfSeparation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DepthFirstDirectedPaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DepthFirstDirectedPaths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DepthFirstOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DepthFirstOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DepthFirstPaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DepthFirstPaths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DepthFirstSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DepthFirstSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Digraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Digraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DigraphGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DigraphGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DijkstraAllPairsSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DijkstraAllPairsSP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DijkstraSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DijkstraSP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DijkstraUndirectedSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DijkstraUndirectedSP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DirectedCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DirectedCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DirectedCycleX.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DirectedCycleX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DirectedDFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DirectedDFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DirectedEdge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DirectedEdge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DirectedEulerianCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DirectedEulerianCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DirectedEulerianPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DirectedEulerianPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DoublingRatio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DoublingRatio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DoublingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/DoublingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Draw.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Draw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Edge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/EdgeWeightedDigraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/EdgeWeightedDigraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/EdgeWeightedDirectedCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/EdgeWeightedDirectedCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/EdgeWeightedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/EdgeWeightedGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/EulerianCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/EulerianCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/EulerianPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/EulerianPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/FFT.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/FFT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/FarthestPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/FarthestPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/FenwickTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/FenwickTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/FibonacciMinPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/FibonacciMinPQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/FileIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/FileIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/FlowEdge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/FlowEdge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/FlowNetwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/FlowNetwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/FloydWarshall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/FloydWarshall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/FordFulkerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/FordFulkerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/FrequencyCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/FrequencyCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/GREP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/GREP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/GabowSCC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/GabowSCC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/GaussJordanElimination.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/GaussJordanElimination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/GaussianElimination.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/GaussianElimination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Genome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Genome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/GlobalMincut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/GlobalMincut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/GrahamScan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/GrahamScan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/GraphGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/GraphGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/GrayscalePicture.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/GrayscalePicture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Heap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/HexDump.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/HexDump.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/HopcroftKarp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/HopcroftKarp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Huffman.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Huffman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/In.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/In.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/IndexBinomialMinPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/IndexBinomialMinPQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/IndexFibonacciMinPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/IndexFibonacciMinPQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/IndexMaxPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/IndexMaxPQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/IndexMinPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/IndexMinPQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/IndexMultiwayMinPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/IndexMultiwayMinPQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/InplaceMSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/InplaceMSD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Insertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/InsertionX.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/InsertionX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Interval1D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Interval1D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Interval2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Interval2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Inversions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Inversions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/KMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/KMP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/KWIK.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/KWIK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Knuth.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Knuth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/KosarajuSharirSCC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/KosarajuSharirSCC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/KruskalMST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/KruskalMST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LSD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LZW.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LZW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LazyPrimMST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LazyPrimMST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LinearProbingHashST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LinearProbingHashST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LinearProgramming.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LinearProgramming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LinearRegression.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LinearRegression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LinkedBag.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LinkedBag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LinkedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LinkedQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LinkedStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LinkedStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LongestCommonSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LongestCommonSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LongestRepeatedSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LongestRepeatedSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LookupCSV.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LookupCSV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LookupIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/LookupIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/MSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/MSD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/MaxPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/MaxPQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Merge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/MergeBU.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/MergeBU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/MergeX.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/MergeX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/MinPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/MinPQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Multiway.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Multiway.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/MultiwayMinPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/MultiwayMinPQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/NFA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/NFA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/NonrecursiveDFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/NonrecursiveDFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/NonrecursiveDirectedDFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/NonrecursiveDirectedDFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Out.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Out.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Particle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Particle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/PatriciaSET.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/PatriciaSET.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/PatriciaST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/PatriciaST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Picture.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Picture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/PictureDump.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/PictureDump.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Point2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Polynomial.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Polynomial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/PrimMST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/PrimMST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Quick.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Quick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Quick3string.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Quick3string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Quick3way.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Quick3way.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/QuickBentleyMcIlroy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/QuickBentleyMcIlroy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/QuickFindUF.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/QuickFindUF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/QuickUnionUF.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/QuickUnionUF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/QuickX.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/QuickX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/RabinKarp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/RabinKarp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/RandomSeq.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/RandomSeq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/RectHV.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/RectHV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/RedBlackBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/RedBlackBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/ResizingArrayBag.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/ResizingArrayBag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/ResizingArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/ResizingArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/ResizingArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/ResizingArrayStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/RunLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/RunLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/SET.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/SET.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/ST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/ST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/SegmentTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/SegmentTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Selection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Selection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/SeparateChainingHashST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/SeparateChainingHashST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/SequentialSearchST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/SequentialSearchST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Shell.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Shell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/SparseVector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/SparseVector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/StaticSETofInts.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/StaticSETofInts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/StdArrayIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/StdArrayIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/StdAudio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/StdAudio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/StdDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/StdDraw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/StdIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/StdIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/StdOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/StdOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/StdRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/StdRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/StdStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/StdStats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Stopwatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Stopwatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/StopwatchCPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/StopwatchCPU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/SuffixArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/SuffixArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/SuffixArrayX.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/SuffixArrayX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/SymbolDigraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/SymbolDigraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/SymbolGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/SymbolGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/TST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/TST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/TarjanSCC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/TarjanSCC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/ThreeSumFast.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/ThreeSumFast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/TopM.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/TopM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Topological.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Topological.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/TopologicalX.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/TopologicalX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/TransitiveClosure.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/TransitiveClosure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/TrieSET.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/TrieSET.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/TrieST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/TrieST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/TwoPersonZeroSumGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/TwoPersonZeroSumGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/UF.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/UF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Vector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Vector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/WeightedQuickUnionUF.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/WeightedQuickUnionUF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/WhiteFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/WhiteFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Whitelist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algs4-master/src/main/java/edu/princeton/cs/algs4/Whitelist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/LearnSpringBoot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/LearnSpringBoot/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/LearnSpringBoot/src/main/java/com/example/demo/bean/DnsData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/LearnSpringBoot/src/main/java/com/example/demo/bean/DnsData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/LearnSpringBoot/src/main/java/com/example/demo/controller/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/LearnSpringBoot/src/main/java/com/example/demo/controller/HelloWorldController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/LearnSpringBoot/src/main/java/com/example/demo/controller/TestMysqlController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/LearnSpringBoot/src/main/java/com/example/demo/controller/TestMysqlController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/LearnSpringBoot/src/main/java/com/example/demo/manager/DnsManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/LearnSpringBoot/src/main/java/com/example/demo/manager/DnsManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/LearnSpringBoot/src/main/java/com/example/demo/repository/DnsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/LearnSpringBoot/src/main/java/com/example/demo/repository/DnsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/LearnSpringBoot/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/LearnSpringBoot/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/LearnSpringBoot/src/test/java/com/example/demo/DnsRepositoryTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/LearnSpringBoot/src/test/java/com/example/demo/DnsRepositoryTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/rocksDB/000015.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/rocksDB/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/rocksDB/CURRENT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/rocksDB/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/rocksDB/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/rocksDB/MANIFEST-000014" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/rocksDB/OPTIONS-000014" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/rocksDB/OPTIONS-000017" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/MdBlockchainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/MdBlockchainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/Block.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/BlockBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/BlockBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/BlockHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/BlockHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/Instruction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/Instruction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/InstructionBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/InstructionBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/InstructionReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/InstructionReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/PairKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/PairKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/check/BlockChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/check/BlockChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/check/CheckerManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/check/CheckerManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/check/local/DbBlockChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/check/local/DbBlockChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/db/DbInitConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/db/DbInitConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/db/DbStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/db/DbStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/db/RocksDbStoreImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/db/RocksDbStoreImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/m/MerkleNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/m/MerkleNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/m/MerkleTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/m/MerkleTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/merkle/MerkleTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/block/merkle/MerkleTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/FastJsonUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/FastJsonUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/PermissionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/PermissionType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/TrustSDK.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/TrustSDK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/algorithm/AESAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/algorithm/AESAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/algorithm/Base58Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/algorithm/Base58Algorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/algorithm/BaseAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/algorithm/BaseAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/algorithm/DESAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/algorithm/DESAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/algorithm/ECDSAAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/algorithm/ECDSAAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/exception/ErrorNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/exception/ErrorNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/exception/TrustSDKException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/common/exception/TrustSDKException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/bean/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/bean/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/bean/Permission.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/bean/Permission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/controller/BlockController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/controller/BlockController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/controller/InstructionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/controller/InstructionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/controller/PairKeyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/controller/PairKeyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/event/AddBlockEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/event/AddBlockEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/event/ClientRequestEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/event/ClientRequestEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/event/DbSyncEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/event/DbSyncEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/event/NodesConnectedEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/event/NodesConnectedEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/manager/DbBlockGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/manager/DbBlockGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/manager/DbBlockManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/manager/DbBlockManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/manager/PermissionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/manager/PermissionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/model/convert/ConvertTableName.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/model/convert/ConvertTableName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/repository/MessageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/repository/MessageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/requestbody/BlockRequestBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/requestbody/BlockRequestBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/service/BlockService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/service/BlockService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/service/InstructionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/service/InstructionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/service/PairKeyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/service/PairKeyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlite/SqliteManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlite/SqliteManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlite/config/DataSourceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlite/config/DataSourceConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlite/config/SQLiteDialect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlite/config/SQLiteDialect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlparser/AbstractSqlParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlparser/AbstractSqlParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlparser/InstructionParserImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlparser/InstructionParserImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlparser/MessageSqlParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlparser/MessageSqlParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/base/AbstractAioHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/base/AbstractAioHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/base/AbstractBlockHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/base/AbstractBlockHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/base/HandlerInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/base/HandlerInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/body/BaseBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/body/BaseBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/body/RpcBlockBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/body/RpcBlockBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/body/RpcCheckBlockBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/body/RpcCheckBlockBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/body/RpcNextBlockBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/body/RpcNextBlockBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/body/VoteBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/body/VoteBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/client/BlockClientAioHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/client/BlockClientAioHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/client/BlockGeneratedListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/client/BlockGeneratedListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/client/ClientContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/client/ClientContextConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/client/ClientStarter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/client/ClientStarter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/client/PacketSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/client/PacketSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/distruptor/DisruptorClientConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/distruptor/DisruptorClientConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/distruptor/DisruptorProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/distruptor/DisruptorProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/distruptor/DisruptorServerConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/distruptor/DisruptorServerConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/distruptor/DisruptorServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/distruptor/DisruptorServerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/client/FetchBlockResponseHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/client/FetchBlockResponseHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/client/TotalBlockInfoResponseHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/client/TotalBlockInfoResponseHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/server/FetchBlockRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/server/FetchBlockRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/server/GenerateCompleteRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/server/GenerateCompleteRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/server/HeartBeatHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/server/HeartBeatHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/server/NextBlockRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/server/NextBlockRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/server/TotalBlockInfoRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/server/TotalBlockInfoRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/packet/BlockPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/packet/BlockPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/packet/NextBlockPacketBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/packet/NextBlockPacketBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/packet/PacketType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/packet/PacketType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/VoteType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/VoteType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/event/MsgCommitEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/event/MsgCommitEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/event/MsgPrepareEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/event/MsgPrepareEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/listener/CommitEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/listener/CommitEventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/listener/PrepareEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/listener/PrepareEventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/msg/VoteMsg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/msg/VoteMsg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/AbstractVoteMsgQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/AbstractVoteMsgQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/BaseMsgQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/BaseMsgQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/CommitMsgQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/CommitMsgQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/MsgQueueManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/MsgQueueManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/NextBlockQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/NextBlockQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/PreMsgQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/PreMsgQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/PrepareMsgQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/PrepareMsgQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/server/BlockServerAioHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/server/BlockServerAioHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/server/BlockServerAioListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/main/java/com/mindata/blockchain/socket/server/BlockServerAioListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/test/java/com/mindata/blockchain/MdBlockchainApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain/src/test/java/com/mindata/blockchain/MdBlockchainApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/main/java/com/mindata/blockmanager/MdBlockchainManagerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/main/java/com/mindata/blockmanager/MdBlockchainManagerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/main/java/com/mindata/blockmanager/constant/PermissionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/main/java/com/mindata/blockmanager/constant/PermissionType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/main/java/com/mindata/blockmanager/controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/main/java/com/mindata/blockmanager/controller/MemberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/main/java/com/mindata/blockmanager/controller/PermissionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/main/java/com/mindata/blockmanager/controller/PermissionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/main/java/com/mindata/blockmanager/manager/MemberManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/main/java/com/mindata/blockmanager/manager/MemberManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/main/java/com/mindata/blockmanager/manager/PermissionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/main/java/com/mindata/blockmanager/manager/PermissionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/main/java/com/mindata/blockmanager/model/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/main/java/com/mindata/blockmanager/model/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/main/java/com/mindata/blockmanager/model/MemberGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/main/java/com/mindata/blockmanager/model/MemberGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/main/java/com/mindata/blockmanager/model/Permission.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/main/java/com/mindata/blockmanager/model/Permission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/main/java/com/mindata/blockmanager/repository/MemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/main/java/com/mindata/blockmanager/repository/MemberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/main/java/com/mindata/blockmanager/repository/PermissionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/main/java/com/mindata/blockmanager/repository/PermissionRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/test/java/com/mindata/blockmanager/MdBlockchainManagerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockOne/md_blockchain_manager/src/test/java/com/mindata/blockmanager/MdBlockchainManagerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/MdBlockchainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/MdBlockchainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/Block.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/BlockBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/BlockBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/BlockHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/BlockHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/Instruction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/Instruction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/InstructionBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/InstructionBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/InstructionReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/InstructionReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/PairKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/PairKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/check/BlockChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/check/BlockChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/check/CheckerManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/check/CheckerManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/check/local/DbBlockChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/check/local/DbBlockChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/db/DbInitConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/db/DbInitConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/db/DbStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/db/DbStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/db/RocksDbStoreImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/db/RocksDbStoreImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/m/MerkleNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/m/MerkleNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/m/MerkleTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/m/MerkleTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/merkle/MerkleTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/block/merkle/MerkleTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/FastJsonUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/FastJsonUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/PermissionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/PermissionType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/TrustSDK.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/TrustSDK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/algorithm/AESAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/algorithm/AESAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/algorithm/Base58Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/algorithm/Base58Algorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/algorithm/BaseAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/algorithm/BaseAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/algorithm/DESAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/algorithm/DESAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/algorithm/ECDSAAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/algorithm/ECDSAAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/exception/ErrorNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/exception/ErrorNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/exception/TrustSDKException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/common/exception/TrustSDKException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/bean/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/bean/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/bean/Permission.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/bean/Permission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/controller/BlockController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/controller/BlockController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/controller/InstructionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/controller/InstructionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/controller/PairKeyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/controller/PairKeyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/event/AddBlockEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/event/AddBlockEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/event/ClientRequestEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/event/ClientRequestEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/event/DbSyncEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/event/DbSyncEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/event/NodesConnectedEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/event/NodesConnectedEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/manager/DbBlockGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/manager/DbBlockGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/manager/DbBlockManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/manager/DbBlockManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/manager/MessageManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/manager/MessageManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/manager/PermissionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/manager/PermissionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/model/convert/ConvertTableName.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/model/convert/ConvertTableName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/repository/MessageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/repository/MessageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/requestbody/BlockRequestBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/requestbody/BlockRequestBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/service/BlockService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/service/BlockService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/service/InstructionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/service/InstructionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/service/PairKeyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/service/PairKeyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlite/SqliteManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlite/SqliteManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlite/config/DataSourceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlite/config/DataSourceConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlite/config/SQLiteDialect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlite/config/SQLiteDialect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlparser/AbstractSqlParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlparser/AbstractSqlParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlparser/InstructionParserImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlparser/InstructionParserImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlparser/MessageSqlParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/core/sqlparser/MessageSqlParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/base/AbstractAioHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/base/AbstractAioHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/base/AbstractBlockHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/base/AbstractBlockHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/base/HandlerInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/base/HandlerInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/body/BaseBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/body/BaseBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/body/RpcBlockBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/body/RpcBlockBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/body/RpcCheckBlockBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/body/RpcCheckBlockBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/body/RpcNextBlockBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/body/RpcNextBlockBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/body/VoteBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/body/VoteBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/client/BlockClientAioHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/client/BlockClientAioHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/client/BlockGeneratedListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/client/BlockGeneratedListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/client/ClientContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/client/ClientContextConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/client/ClientStarter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/client/ClientStarter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/client/PacketSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/client/PacketSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/distruptor/DisruptorClientConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/distruptor/DisruptorClientConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/distruptor/DisruptorProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/distruptor/DisruptorProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/distruptor/DisruptorServerConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/distruptor/DisruptorServerConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/distruptor/DisruptorServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/distruptor/DisruptorServerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/client/FetchBlockResponseHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/client/FetchBlockResponseHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/client/TotalBlockInfoResponseHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/client/TotalBlockInfoResponseHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/server/FetchBlockRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/server/FetchBlockRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/server/GenerateCompleteRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/server/GenerateCompleteRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/server/HeartBeatHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/server/HeartBeatHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/server/NextBlockRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/server/NextBlockRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/server/TotalBlockInfoRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/handler/server/TotalBlockInfoRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/packet/BlockPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/packet/BlockPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/packet/NextBlockPacketBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/packet/NextBlockPacketBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/packet/PacketType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/packet/PacketType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/VoteType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/VoteType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/event/MsgCommitEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/event/MsgCommitEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/event/MsgPrepareEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/event/MsgPrepareEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/listener/CommitEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/listener/CommitEventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/listener/PrepareEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/listener/PrepareEventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/msg/VoteMsg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/msg/VoteMsg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/AbstractVoteMsgQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/AbstractVoteMsgQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/BaseMsgQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/BaseMsgQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/CommitMsgQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/CommitMsgQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/MsgQueueManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/MsgQueueManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/NextBlockQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/NextBlockQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/PreMsgQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/PreMsgQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/PrepareMsgQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/pbft/queue/PrepareMsgQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/server/BlockServerAioHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/server/BlockServerAioHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/server/BlockServerAioListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/main/java/com/mindata/blockchain/socket/server/BlockServerAioListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/test/java/com/mindata/blockchain/MdBlockchainApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain/src/test/java/com/mindata/blockchain/MdBlockchainApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/main/java/com/mindata/blockmanager/MdBlockchainManagerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/main/java/com/mindata/blockmanager/MdBlockchainManagerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/main/java/com/mindata/blockmanager/constant/PermissionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/main/java/com/mindata/blockmanager/constant/PermissionType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/main/java/com/mindata/blockmanager/controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/main/java/com/mindata/blockmanager/controller/MemberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/main/java/com/mindata/blockmanager/controller/PermissionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/main/java/com/mindata/blockmanager/controller/PermissionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/main/java/com/mindata/blockmanager/manager/MemberManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/main/java/com/mindata/blockmanager/manager/MemberManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/main/java/com/mindata/blockmanager/manager/PermissionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/main/java/com/mindata/blockmanager/manager/PermissionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/main/java/com/mindata/blockmanager/model/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/main/java/com/mindata/blockmanager/model/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/main/java/com/mindata/blockmanager/model/MemberGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/main/java/com/mindata/blockmanager/model/MemberGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/main/java/com/mindata/blockmanager/model/Permission.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/main/java/com/mindata/blockmanager/model/Permission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/main/java/com/mindata/blockmanager/repository/MemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/main/java/com/mindata/blockmanager/repository/MemberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/main/java/com/mindata/blockmanager/repository/PermissionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/main/java/com/mindata/blockmanager/repository/PermissionRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/test/java/com/mindata/blockmanager/MdBlockchainManagerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockThree/md_blockchain_manager/src/test/java/com/mindata/blockmanager/MdBlockchainManagerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/SparkWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/SparkWeb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/SparkWebWithPOW.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/SparkWebWithPOW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/domain/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/domain/Block.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/domain/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/domain/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/entity/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/entity/Block.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/entity/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/entity/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/Block.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/CommonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/CommonUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/NmCoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/NmCoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/PeerNetwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/PeerNetwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/PeerReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/PeerReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/PeerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/PeerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/PeerWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/PeerWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/RpcServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/RpcServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/RpcThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/RpcThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/TransactionInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/TransactionInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/TransactionOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/TransactionOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/Wallet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/nmcoin/Wallet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/p2p/BlockUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/p2p/BlockUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/p2p/BroadcastThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/p2p/BroadcastThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/p2p/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/p2p/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/p2p/NodeThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/p2p/NodeThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/real/p2p/BlockUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/real/p2p/BlockUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/real/p2p/CommonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/real/p2p/CommonUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/real/p2p/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/real/p2p/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/real/p2p/PeerNetwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/real/p2p/PeerNetwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/real/p2p/PeerReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/real/p2p/PeerReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/real/p2p/PeerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/real/p2p/PeerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/real/p2p/PeerWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/real/p2p/PeerWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/real/p2p/RpcServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/real/p2p/RpcServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/real/p2p/RpcThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/java/com/v5ent/real/p2p/RpcThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain-master/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain-master/target/classes/log4j.properties" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application-local.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application-prod.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mindata/blockmanager/MdBlockchainManagerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mindata/blockmanager/bean/PermissionData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mindata/blockmanager/controller/MemberController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="760">
+              <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1066#1067#0" expanded="true" />
+                <element signature="e#1130#1131#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mindata/blockmanager/constant/PermissionType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mindata/blockmanager/manager/MemberManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="51" column="60" selection-start-line="51" selection-start-column="60" selection-end-line="51" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mindata/blockmanager/repository/MemberRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-local.yml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-prod.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="947" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="md_blockchain_manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="md_blockchain_manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="md_blockchain_manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="md_blockchain_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="md_blockchain_manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="md_blockchain_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="md_blockchain_manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="md_blockchain_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="md_blockchain_manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="md_blockchain_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blockmanager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="md_blockchain_manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="md_blockchain_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blockmanager" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="md_blockchain_manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="md_blockchain_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blockmanager" type="462c0819:PsiDirectoryNode" />
+              <item name="constant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="md_blockchain_manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="md_blockchain_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blockmanager" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="md_blockchain_manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="md_blockchain_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blockmanager" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="md_blockchain_manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="md_blockchain_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blockmanager" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="md_blockchain_manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="md_blockchain_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blockmanager" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="md_blockchain_manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="md_blockchain_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="ToolWindowDocker.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563974102306" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MdBlockchainManagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="md_blockchain_manager" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mindata.blockmanager.MdBlockchainManagerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08a48fdb-eef0-4893-8f0b-06a0996a666f" name="Default Changelist" comment="" />
+      <created>1561687902732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561687902732</updated>
+      <workItem from="1561687904033" duration="3843000" />
+      <workItem from="1563695090737" duration="8279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12122000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="23" width="1680" height="947" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Tail" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3122807" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" weight="0.32959184" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="RestServices" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32967034" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.0.RELEASE/spring-boot-autoconfigure-2.0.0.RELEASE.jar!/org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mindata/blockmanager/controller/PermissionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mindata/blockmanager/manager/PermissionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mindata/blockmanager/manager/MemberGroupManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mindata/blockmanager/repository/MemberGroupRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mindata/blockmanager/repository/PermissionRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mindata/blockmanager/model/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mindata/blockmanager/model/MemberGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mindata/blockmanager/model/Permission.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mindata/blockmanager/bean/BaseData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mindata/blockmanager/bean/MemberData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mindata/blockmanager/bean/PermissionData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mindata/blockmanager/manager/MemberManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="51" column="60" selection-start-line="51" selection-start-column="60" selection-end-line="51" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mindata/blockmanager/repository/MemberRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-local.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mindata/blockmanager/MdBlockchainManagerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mindata/blockmanager/controller/MemberController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1066#1067#0" expanded="true" />
+            <element signature="e#1130#1131#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mindata/blockmanager/constant/PermissionType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

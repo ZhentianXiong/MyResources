@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/blockchainfour?autoReconnect=true&useUnicode=true&useSSL=true
+    password: 19950604qwe
+    username: root
