@@ -10,3 +10,5 @@ Leetcode代码
 整合好Redis做缓存的可运行系统
 # MindMapping：
 思维导图
+# JavaGuide
+Java第一面试宝典
